@@ -1,2 +1,2 @@
 # music-player
-Music Player created from JavaScript without library.
+Music Player created from JavaScript without using any library.
